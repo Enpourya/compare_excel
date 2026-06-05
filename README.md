@@ -1,4 +1,4 @@
-# compare_excel
+# Compare_EXCEL
 A small and practical fast program for comparing large Excel files
 
 This program works by taking two Excel files named a.xlsx and b.xlsx, then saves the comparison results (including differences) in a text file named c.txt.
